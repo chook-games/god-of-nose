@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Base XML theme for the manifest.
+        The actual Material 3 Compose theme is defined in Theme.kt.
+        This is a minimal theme to avoid a crash on launch before Compose takes over.
+    -->
+    <style name="Theme.GodOfNoseSneezeAndThunder" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>

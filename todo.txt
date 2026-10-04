@@ -1,0 +1,61 @@
+### 1. __Ηχητικά εφέ__ — Ρεαλιστικά sneeze sounds
+
+- Έχουμε το `SoundEngine.kt` αλλά χρειάζονται actual sound files
+- Μπορούμε να χρησιμοποιήσουμε το `generate_sounds.py` για να δημιουργήσουμε ήχους προγραμματιστικά
+
+### 2. __Google Play Games — Πραγματική υλοποίηση__
+
+- Το `GooglePlayGamesManager.kt` είναι stub
+- Leaderboards (top sneezers)
+- Cloud Save (έχουμε `CloudSaveManager.kt` stub)
+
+### 3. __Prestige / New Game+ System__
+
+- Reset progress για permanent μπόνους (π.χ. "Godly Nose" upgrades)
+- Κοινό feature σε idle clickers
+
+### 4. __Daily Rewards__
+
+- Login bonus κάθε μέρα
+- Streak rewards
+
+### 5. __Notifications__
+
+- Push notification όταν συμπληρωθεί stamina / offline earnings
+- Reminder να γυρίσεις στο παιχνίδι
+
+### 6. __More Zones & Items__
+
+- Επέκταση από 5 σε 10+ zones
+- Mythic/Epic items με special abilities
+
+### 7. __More Cosmetics__
+
+- Capes, shoes, backgrounds
+- Sneeze animations (fire, ice, lightning)
+
+### 8. __Accessibility & Polish__
+
+- Screen reader support
+- Color blind mode
+- Haptic feedback ενισχυμένο
+
+### 9. __Google Play Store Publishing__
+
+- App icon (launcher icons ήδη υπάρχουν)
+- Store screenshots
+- Privacy policy
+- APK signing
+
+### 10. __Leaderboard & Achievements Screen βελτίωση__
+
+- Global leaderboard (GPGS)
+- Achievement progress bars
+
+### 11. __Rate the App Dialog__
+
+- Μετά από κάποιον αριθμό sneezes / play time
+
+### 12. __Greek Translation / Localization__
+
+- Αφού είσαι Έλληνας, μπορούμε να προσθέσουμε πλήρη ελληνική μετάφραση
